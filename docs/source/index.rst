@@ -1,4 +1,4 @@
-Welcome to Django Kong's documentation!
+hello
 =======================================
 
 A simple example
