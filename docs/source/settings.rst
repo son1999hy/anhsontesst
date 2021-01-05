@@ -1,7 +1,7 @@
 Hello
 ========
 
-Kong has a number of settings that will effect the behavior of Kong. Mostly related to the sending of notifications.
+Chú vịt
 
 
 Khánh Linh
