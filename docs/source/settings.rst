@@ -4,14 +4,14 @@ Settings
 Kong has a number of settings that will effect the behavior of Kong. Mostly related to the sending of notifications.
 
 
-KONG_MAIL_MANAGERS
+Khánh Linh
 ------------------
 
 Default: False
 
 When set to true, this mails notifications to the people defined in Django's MANAGERS setting.
 
-KONG_MAIL_ADMINS
+Mèo
 ----------------
 
 Default: False
