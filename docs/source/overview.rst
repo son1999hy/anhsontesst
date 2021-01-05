@@ -49,7 +49,11 @@ At the moment the tests can be kicked off by a django management command. The `c
      django-admin.py check_sites --type ellington
      django-admin.py check_sites --test test-front-page
 
+
 We currently have this wired up to a cron job that runs every 10 minutes. If you set the `KONG_MAIL_MANAGERS` settings to True, it will send an email to the site managers on a test failure. At some point in the future, I will be integrating Kong into Nagios, so that Nagios will handle the running and alerting of errors. That is eventually the way that it will be run.
 
 There are a lot of ways that this can be improved, however in it's current state it works for me. I figured releasing it will allow anyone who needs something like this to be able to use it. There is no documentation or tests, which will be fixed soon! The web display can also be improved a ton, and that is a high priority as well.
+-----------------
+Khánh Linh
 
+Nguyễn Khánh Linh
