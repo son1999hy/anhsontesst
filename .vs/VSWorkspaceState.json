@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\docs",
+    "\\docs\\source",
+    "\\kong",
+    "\\kong\\management",
+    "\\kong\\management\\commands",
+    "\\kong\\plugins",
+    "\\kong\\templates",
+    "\\kong\\templatetags",
+    "\\kong\\tests"
+  ],
+  "SelectedNode": "\\docs\\source\\install.rst",
+  "PreviewInSolutionExplorer": false
+}
