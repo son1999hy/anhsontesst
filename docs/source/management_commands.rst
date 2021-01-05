@@ -1,9 +1,6 @@
 Lươn Tuấn ngọc
 ===================
 
-Lươn Tuấn ngọc
-===================
-
 Ngọc Vịt
 
 check_sites
