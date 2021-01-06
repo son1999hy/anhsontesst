@@ -28,7 +28,6 @@ Contents
    overview
    meta
    roadmap
-   meo
 
 What's with the name?
 ----------------------
