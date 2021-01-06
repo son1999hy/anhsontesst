@@ -37,7 +37,7 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = u'Django Kong'
+project = u'Doc Test Son'
 copyright = u'2009, Eric Holscher'
 
 # The version info for the project you're documenting, acts as replacement for
